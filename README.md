@@ -10,7 +10,8 @@ This is my old project,  I am a fan of demonstrating math science into visual pr
 
  ## **Video Demo**
 
- Here's  [link](https://drive.google.com/file/d/1BkSLRtYIMXI-Tpqojz5iij3ODx5UZaGk/view?usp=drive_link)  to watch how it works
+https://github.com/fiqihamrullah/wireless-coverage-simulation/assets/68839112/e69c9b94-fafa-4464-b934-61f619299bb0
+
 
 
 ## Run Locally
